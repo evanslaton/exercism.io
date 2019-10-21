@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\gigasecond",
+    "\\hello-world"
   ],
-  "SelectedNode": "\\pangram",
+  "SelectedNode": "\\hello-world\\HelloWorld.cs",
   "PreviewInSolutionExplorer": false
 }
