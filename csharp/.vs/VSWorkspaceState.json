@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\gigasecond",
-    "\\hello-world"
+    "\\perfect-numbers"
   ],
-  "SelectedNode": "\\hello-world\\HelloWorld.cs",
+  "SelectedNode": "\\perfect-numbers\\PerfectNumbers.cs",
   "PreviewInSolutionExplorer": false
 }
