@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\gigasecond",
-    "\\perfect-numbers"
+    "\\resistor-color"
   ],
-  "SelectedNode": "\\gigasecond\\Gigasecond.cs",
+  "SelectedNode": "\\resistor-color\\ResistorColor.cs",
   "PreviewInSolutionExplorer": false
 }
