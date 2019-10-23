@@ -11,7 +11,7 @@ public class PhoneNumber
         phoneNumber = Regex.Replace(phoneNumber, @"[^\d]", "");
 
         // Validates phone number
-        Match match = Regex.Match(phoneNumber, @"^1?(2|3|4|5|6|7|8|9)\d{2}(2|3|4|5|6|7|8|9)\d{2}\d{4}$"); 
+        Match match = Regex.Match(phoneNumber, @"^1?(2|3|4|5|6|7|8|9)\d{2}(2|3|4|5|6|7|8|9)\d{6}$"); 
 
         if (match.Success)
         {
