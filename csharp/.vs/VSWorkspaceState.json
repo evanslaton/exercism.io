@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\resistor-color"
+    "\\phone-number"
   ],
-  "SelectedNode": "\\resistor-color\\ResistorColor.cs",
+  "SelectedNode": "\\phone-number\\PhoneNumber.cs",
   "PreviewInSolutionExplorer": false
 }
