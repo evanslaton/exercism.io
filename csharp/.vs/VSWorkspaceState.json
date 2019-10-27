@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\largest-series-product"
   ],
-  "SelectedNode": "\\sum-of-multiples",
+  "SelectedNode": "\\largest-series-product\\LargestSeriesProduct.cs",
   "PreviewInSolutionExplorer": false
 }
