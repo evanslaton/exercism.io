@@ -41,3 +41,6 @@ you're having trouble, please visit the exercism.io [C# language page](http://ex
 
 Problem 9 at Project Euler [http://projecteuler.net/problem=9](http://projecteuler.net/problem=9)
 
+## Resources
+* Provides an explanation why by first attempt wasn't working [Math Blog](https://www.mathblog.dk/pythagorean-triplets/)
+
