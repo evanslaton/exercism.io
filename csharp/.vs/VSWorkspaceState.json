@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\largest-series-product"
+    "\\largest-series-product\\obj",
+    "\\series"
   ],
-  "SelectedNode": "\\largest-series-product\\LargestSeriesProduct.cs",
+  "SelectedNode": "\\series\\Series.cs",
   "PreviewInSolutionExplorer": false
 }
