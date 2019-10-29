@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\largest-series-product\\obj",
-    "\\series"
+    "\\pythagorean-triplet"
   ],
-  "SelectedNode": "\\series\\Series.cs",
+  "SelectedNode": "\\pythagorean-triplet\\PythagoreanTriplet.cs",
   "PreviewInSolutionExplorer": false
 }
