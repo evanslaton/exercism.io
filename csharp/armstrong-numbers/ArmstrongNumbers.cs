@@ -6,8 +6,8 @@ public static class ArmstrongNumbers
     public static bool IsArmstrongNumber(int number)
     {
         List<int> digits = GetDigits(number);
-        int armstrongNumber = CalculateArmstrongNumber(GetDigits(number));
-        return CalculateArmstrongNumber(GetDigits(number)) == number;
+        int armstrongNumber = CalculateArmstrongNumber(digits);
+        return armstrongNumber == number;
     }
 
     private static List<int> GetDigits(int number)
