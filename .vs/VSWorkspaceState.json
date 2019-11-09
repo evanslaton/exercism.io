@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\csharp"
+    "\\csharp",
+    "\\csharp\\robot-name"
   ],
-  "SelectedNode": "\\csharp\\leap",
+  "SelectedNode": "\\csharp\\robot-name\\RobotNameTest.cs",
   "PreviewInSolutionExplorer": false
 }

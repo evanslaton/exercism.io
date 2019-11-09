@@ -1,30 +1,40 @@
 using System;
+using System.Collections.Generic;
 
 public class Robot
 {
     private static char[] LETTERS = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'};
     private static int NUMBER_UPPER_LIMIT = 999;
+    private static HashSet<string> robotNames = new HashSet<string>();
+    public string name;
 
     public string Name
     {
         get
         {
-            return Name;
+            return name;
         }
         set
         {
-            Name = value;
+            name = value;
         }
+    }
+
+    public Robot()
+    {
+        Reset();
     }
 
     public void Reset()
     {
-        string newName = "impossible name";
-        while (newName == Name)
+       string newName;
+        do
         {
-            newName = GetTwoLetters() + GetThreeDigitNumber();
+            newName = GetTwoLetters() + GetThreeDigits();
         
-        }
+        } while (newName == Name || robotNames.Contains(newName));
+        robotNames.Remove(Name);
+        robotNames.Add(newName);
         Name = newName;
     }
 
@@ -36,7 +46,7 @@ public class Robot
         return LETTERS[firstNumber].ToString() + LETTERS[secondNumber].ToString();
     }
 
-    private static string GetThreeDigitNumber() 
+    private static string GetThreeDigits() 
     {
         Random random = new Random();
         int randomNumber = random.Next(0, NUMBER_UPPER_LIMIT);
