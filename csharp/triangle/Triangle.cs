@@ -22,7 +22,7 @@ public static class Triangle
 
     private static bool IsTriangle(double side1, double side2, double side3)
     {
-        if (!(side1 > 0) || !(side2 > 0) || !(side3 > 0))
+        if (side1 <= 0.0 || side2 <= 0.0 || side3 <= 0.0)
             return false;
         else if (side1 + side2 < side3)
             return false;
