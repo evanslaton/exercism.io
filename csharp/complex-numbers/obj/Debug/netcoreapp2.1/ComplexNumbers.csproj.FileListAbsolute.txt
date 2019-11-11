@@ -1,0 +1,13 @@
+C:\Users\evans\Exercism\csharp\complex-numbers\obj\Debug\netcoreapp2.1\ComplexNumbers.csprojAssemblyReference.cache
+C:\Users\evans\Exercism\csharp\complex-numbers\obj\Debug\netcoreapp2.1\ComplexNumbers.AssemblyInfoInputs.cache
+C:\Users\evans\Exercism\csharp\complex-numbers\obj\Debug\netcoreapp2.1\ComplexNumbers.AssemblyInfo.cs
+C:\Users\evans\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\evans\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\evans\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\evans\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\ComplexNumbers.deps.json
+C:\Users\evans\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\ComplexNumbers.runtimeconfig.json
+C:\Users\evans\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\ComplexNumbers.runtimeconfig.dev.json
+C:\Users\evans\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\ComplexNumbers.dll
+C:\Users\evans\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\ComplexNumbers.pdb
+C:\Users\evans\Exercism\csharp\complex-numbers\obj\Debug\netcoreapp2.1\ComplexNumbers.dll
+C:\Users\evans\Exercism\csharp\complex-numbers\obj\Debug\netcoreapp2.1\ComplexNumbers.pdb
