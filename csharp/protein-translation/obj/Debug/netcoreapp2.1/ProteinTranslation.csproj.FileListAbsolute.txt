@@ -1,0 +1,13 @@
+C:\Users\evans\Exercism\csharp\protein-translation\obj\Debug\netcoreapp2.1\ProteinTranslation.csprojAssemblyReference.cache
+C:\Users\evans\Exercism\csharp\protein-translation\obj\Debug\netcoreapp2.1\ProteinTranslation.AssemblyInfoInputs.cache
+C:\Users\evans\Exercism\csharp\protein-translation\obj\Debug\netcoreapp2.1\ProteinTranslation.AssemblyInfo.cs
+C:\Users\evans\Exercism\csharp\protein-translation\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\evans\Exercism\csharp\protein-translation\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\evans\Exercism\csharp\protein-translation\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\evans\Exercism\csharp\protein-translation\bin\Debug\netcoreapp2.1\ProteinTranslation.deps.json
+C:\Users\evans\Exercism\csharp\protein-translation\bin\Debug\netcoreapp2.1\ProteinTranslation.runtimeconfig.json
+C:\Users\evans\Exercism\csharp\protein-translation\bin\Debug\netcoreapp2.1\ProteinTranslation.runtimeconfig.dev.json
+C:\Users\evans\Exercism\csharp\protein-translation\bin\Debug\netcoreapp2.1\ProteinTranslation.dll
+C:\Users\evans\Exercism\csharp\protein-translation\bin\Debug\netcoreapp2.1\ProteinTranslation.pdb
+C:\Users\evans\Exercism\csharp\protein-translation\obj\Debug\netcoreapp2.1\ProteinTranslation.dll
+C:\Users\evans\Exercism\csharp\protein-translation\obj\Debug\netcoreapp2.1\ProteinTranslation.pdb
