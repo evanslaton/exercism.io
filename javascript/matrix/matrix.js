@@ -5,12 +5,7 @@
 
 export class Matrix {
   constructor(matrix) {
-    this._rows = getRows();
-    this._columns = 0; 
-  }
-
-  createRows(matrix) {
-    return matrix.split('\n').map(row => row.split(' ').map(number => parseInt(number)));
+    this.matrix = matrix
   }
 
   get rows() {
