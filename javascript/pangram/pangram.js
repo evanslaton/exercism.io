@@ -6,9 +6,8 @@
 export const isPangram = (text) => {
   const NUMBER_OF_LETTERS = 26;
   const letters = new Set();
-  const regex = RegExp('[a-z]');
   for (let i = 0; i < text.length; i++) {
-    if (regex.test(text[i].toLowerCase())) {
+    if (/[a-z]/.test(text[i].toLowerCase())) {
       letters.add(text[i].toLowerCase());
     }
   }
