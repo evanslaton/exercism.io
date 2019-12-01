@@ -5,11 +5,11 @@
 
 export class Words {
   count(inputString) {
-    const words = inputString.trim().toLowerCase().split(' ');
+    const words = inputString.trim().toLowerCase().split(/\s/);
     const output = {};
     words.forEach(word => {
       if (word !== '') {
-        if (word in output) {
+        if (output.hasOwnProperty(word)) {
           output[word] = output[word] + 1;
         } else {
           output[word] = 1;
